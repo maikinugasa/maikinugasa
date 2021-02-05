@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 ### Konnichiha, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{maikinugasa}/count.svg" alt="Mai :: Visitor's Count" /></p>
-## 📚 About Me 
-- 👨🏽‍💻 
-- 🌱 
-- 📚 
-- 📝
-- 📫 How to reach me (LinkedIn): 
-- 
+## 📚 About Me <br />
+- 👨🏽‍💻 <br />
+- 🌱 <br />
+- 📚 <br />
+- 📝<br />
+- 📫 How to reach me (LinkedIn): <br />
+- <br />
 <br />
 <br />
-## Main Languages and Tools:
+## Main Languages and Tools:<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
