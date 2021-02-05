@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 <br />
 ## Main Languages and Tools:<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <br />
