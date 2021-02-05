@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ### Konnichiha, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{maikinugasa}/count.svg" alt="Mai :: Visitor's Count" /></p>
-### 📚 About Me <br />
+
+## 📚 About Me <br />
 - 👨🏽‍💻 <br />
 - 🌱 <br />
 - 📚 <br />
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
 - <br />
 <br />
 <br />
+
 ## Main Languages and Tools:<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
@@ -33,6 +35,7 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <br />
+
 ## 📈 GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=maikinugasa)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">  
