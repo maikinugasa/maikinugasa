@@ -18,14 +18,11 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{maikinugasa}/count.svg" alt="Mai :: Visitor's Count" /></p>
 
 ## 📚 About Me <br />
-- 👨🏽‍💻 <br />
-- 🌱 <br />
-- 📚 <br />
-- 📝<br />
-- 📫 How to reach me (LinkedIn): <br />
-- <br />
-<br />
-<br />
+- 👨🏽‍💻 I’m currently learning about Backend technologies<br />
+- 💪 Future Goals: Learn more technologies - Never stop creating new ideas. <br />
+- 🏃‍ Fun fact: I love to work out  <br />
+- 📫 How to reach me (Twitter): https://twitter.com/maikinugasa1023<br />
+
 
 ## Main Languages and Tools:<br />
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
