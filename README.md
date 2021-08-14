@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨🏽‍💻 I’m currently learning about Backend technologies<br />
 - 💪 Future Goals: Learn more technologies - Never stop creating new ideas. <br />
 - 🏃‍ Fun fact: I love to work out  <br />
-- 📫 How to reach me (Twitter): https://twitter.com/maikinugasa1023<br />
+- 📫 How to reach me (LinkedIn): www.linkedin.com/in/mai-kinugasa<br />
 
 
 ## Main Languages and Tools:<br />
